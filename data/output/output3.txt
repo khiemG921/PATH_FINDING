@@ -1,0 +1,35 @@
+Breadth-first search
+Path: 0 -> 2 -> 5 -> 1 -> 4
+Time: 0.00000000 seconds
+Memory: 0.77 KB
+
+Tree-search Depth-first search
+Path: 0 -> 2 -> 5 -> 1 -> 4
+Time: 0.00000000 seconds
+Memory: 0.61 KB
+
+Uniform-cost search
+Path: 0 -> 2 -> 5 -> 1 -> 4
+Time: 0.00000000 seconds
+Memory: 4.53 KB
+
+Iterative deepening search
+Path: 0 -> 2 -> 5 -> 1 -> 4
+Time: 0.00000000 seconds
+Memory: 2.42 KB
+
+Greedy best-first search
+Path: 0 -> 2 -> 5 -> 1 -> 4
+Time: 0.00000000 seconds
+Memory: 4.06 KB
+
+Graph-search A*
+Path: 0 -> 2 -> 5 -> 1 -> 4
+Time: 0.00099778 seconds
+Memory: 4.73 KB
+
+Hill-climbing
+Path: -1
+Time: 0.00000000 seconds
+Memory: 0.24 KB
+
